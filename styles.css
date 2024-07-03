@@ -1,0 +1,77 @@
+body{
+    background-image: url('pages/motor\ vangard\ com\ tanque.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: aquamarine;
+    padding-top:20px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-inline-end: 30px;
+    padding-bottom: 20px;
+    list-style-type: none;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+
+}
+aside{
+    background-attachment: fixed;
+    background-color: rgb(127, 160, 95);
+    background-image: -webkit-image-set();
+    padding: auto;
+    border-radius: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    align-content: center;
+    height: 30%;
+    width: 50%;
+}
+section{
+    background-color: aquamarine;
+    padding: 20px ;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: dashed;
+    text-shadow: 20px;
+}
+footer{
+    background-color: pink;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    align-self: center;
+    border-radius: 10px;
+    list-style-type:none ;
+    padding-inline-start:30px ;
+}
+#modal{
+    background-color: aquamarine;
+    text-decoration: underline;
+    text-emphasis-color: red;
+}
+td{
+    background-color: rgb(253, 127, 255);
+    background-image: cross-fade();
+    border-radius: 15px;
+    text-emphasis-color: blue;
+}
+form{
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient();
+}
+input{
+    background-color: rgb(255, 255, 65);
+    width: 300px;
+    height: 50px;
+}
+button{
+    background-color: rgb(255,45,255);
+    background-image: linear-gradient();
+    font-size: larger;
+}
